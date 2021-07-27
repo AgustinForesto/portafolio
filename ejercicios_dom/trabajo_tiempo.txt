@@ -1,0 +1,13 @@
+Tiempo trabajado {
+    Dia 1: 7.5 horas
+    Dia 2: 3.5 horas
+    Dia 3: 3 horas
+    Dia 4: 2.5 horas
+    Dia 5: 4.5 horas
+    Dia 6: 4 horas
+    Dia 7: 3 horas ***
+
+
+
+    Total: 25 horas
+}
