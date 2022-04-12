@@ -1,7 +1,12 @@
 h1 {
-    margin: auto;
+    margin: 0 auto;
     width: max-content;
-    padding: 5px 15px;
+    padding: 5px 45px;
     border: 1px solid black;
     border-radius: 50%;
+}
+
+h2, a {
+    margin: 15px auto;
+    width: max-content;
 }
